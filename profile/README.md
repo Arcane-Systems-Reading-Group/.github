@@ -1,50 +1,42 @@
 # Welcome to Arcane Systems Reading Group!
 This study group is about the internals of compilers, programming languages, distributed systems, databases, file formats, internet protocols, operating systems, browsers, emulators, and to build a community around this kind of exploration.  You're not expected to have attended previous weeks and expected to adhere to the standards of the Geneva War Convention.
 
-Since we're just starting out, we plan on meeting once a month on a random Sunday afternoon that will be decided in the WhatsApp / Discord GC and work on the planned topics listed here. Feel free to join us during these sessions and decide if this group suits you!
+We meet once a month on a Sunday afternoon, the exact date is announced in the group chat and in this website. Feel free to drop in, see if it's your thing, and stick around. Feel free to join us during these sessions and decide if this group suits you!
 
 > [!CAUTION]
 Join ASRG GC here: https://chat.whatsapp.com/CQmHWWzGzVeHLC6TcuGmmm
 
 # Upcoming Sessions
-### ⌘ ```OFFICIAL FIRST SESSION !``` by [vxsha-256](https://github.com/2SpaceMasterRace) 
-✦ **Linux Kernel Module Programming**\
-    Let's write a Linux kernel module on a x86-64 Ubuntu 24.02 VM because I am scared of corrupting my own PC. We'll be using The [Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/), a free book by Peter Jay Salzman, Michael Burian, Ori Pomerantz, Bob Mottram, Jim Huang. 
-
-✦ **Reviewing DOOM**: 
-
-Explore DOOM 3 Source Code and its engineering, such as the Quake III arena engine, Binary Space Partitioning, Fast inverse square root algorithm, Lectures from John Carmack & more. We read and discuss all things DOOM including watching it run in weird place.
-
 ### ⌘ Hack Sessions:
-
 ```TBD```\
-✦ check out what we've planned [here](https://github.com/Amrita-Systems-Reading-Group/seasonOne-bucketlist) ✦
+✦ check out what we've planned in the [season1-bucketlist](https://github.com/Amrita-Systems-Reading-Group/seasonOne-bucketlist) ✦
 
 ### ⌘ Past Sessions:
 ```Pre-Season 01: April 7th, 2024```
  - ~~Recreating Pong on Bare-Metal by [Aadithyaa](https://www.github.com/aadit-n3rdy)~~ 
- - ~~Implementing x86 BootLoader by [Praneeth](https://github.com/PraneethV-cmd)~~
+ - ~~Implementing x86 BootLoader by [Praneeth](https://github.com/PraneethV-cmd)~~ \
+
+✦ content of future sessions will be stored here: [.chadrc](https://github.com/Arcane-Systems-Reading-Group/.chadrc) ✦
 
 
 # Byte-Sized Workshops
+Some past ideas worth exploring, the website has more cool ones:
 
 ✦ **PL & The Web**:
 
-The 1 Billion Row Challenge, Exploring Programming Language Runtimes, Crash Course into Low-Latency Systems and Large-Scale Backend Engineering. 
-
+The 1 Billion Row Challenge, exploring programming language runtimes and memory models, crash course into design and backend engineering.
 
 ✦ **Interpreters, Package managers, and Planetary databases**:
 
-Go over the Crafting Interpreters Book, Dive into Reproducible builds with Nix, and review Monarch: Google’s planet-scale in-memory Time Series Database.
-
+Go over the Crafting Interpreters book, dive into reproducible builds with nix, and review monarch: google’s planet-scale in-memory time series database.
 
 ✦ **Networking guide to the Internet**:
 
-Intro to Networking fundamentals, Practical end-to-end Authenticated Encryption, Speedrunning computer networking, and Reading Post-Mortems of Catastrophic Failure in Big Tech Companies.
+Taking Stanford's CS 144: Introduction to Computer Networking course, diviing into the mathematics of computer networking, and reading post-mortems of catastrophic failures in big tech companies.
 
-✦ **ML systems & Advanced Hardware (Semiconductors + GPUs)**:
+✦ **Machine Learning systems & Advanced Hardware (Semiconductors + GPUs)**:
 
-Internals of JAX, ML systems and Compilers, Alternate experiments such as Q*, and KANs, Exploring advancements in semiconductors and accelerators for machine learning. 
+Internals of frameworks like Jax and exploring advancements in semiconductors and accelerators for machine learning. 
 
 #  Scheduled Events
 
@@ -98,7 +90,7 @@ As the group name's suggests, we're more focused on niche and exciting problems 
     Contributions welcome! Just open an issue and I'll get in touch shortly.
 
 # Contribution Guide
-shoutout to [Praneeth](https://github.com/PraneethV-cmd) for the write-up.
+Shoutout to [Praneeth](https://github.com/PraneethV-cmd) for the write-up.
 ### Project Ideas:
 1. Check if your project ideas satisfy the requirements specified in the ground rules.
 2. If so, check the existing project ideas to see if your idea integrates nicely with one
