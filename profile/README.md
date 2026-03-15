@@ -20,7 +20,7 @@ Join ASRG GC here: https://chat.whatsapp.com/CQmHWWzGzVeHLC6TcuGmmm
 
 
 # Byte-Sized Workshops
-Some past ideas worth exploring, the website has more cool ones:
+Some past ideas worth exploring, the website has more cool ones anyways:
 
 ✦ **PL & The Web**:
 
@@ -85,6 +85,7 @@ On the other side of things, here is a quote from one of our fellow member that 
 
 As the group name's suggests, we're more focused on niche and exciting problems rather than generic problems. While we'd love to hear about your startup / next big thing, we certainly don't want you use this as a platform for it. Unsolicited promotion that isn't mentioned explictly beforehand will result in insta-ban (Good luck with the appeal lol). Sponsored products will likely be exempted from this since I'l be screening it & make sure it's legit. To know more, send an [email](mailto:v.harivarsha@gmail.com) and I'll be happy to setup a meet / discuss more.
 
+The OG ASRG website can be found here: https://readymag.website/u2920188154/4664937/
 
 # Feature List
     Contributions welcome! Just open an issue and I'll get in touch shortly.
@@ -109,3 +110,4 @@ everyone else.
 2. Feel free to reach out to the primary developer of the project.
 3. Follow any code guidelines specified in the README (chances of there being any guidelines whatsoever are pretty slim).
 4. If it's a large contribution with significant complexity, consider bringing it up as an idea for an open session or BSOD.
+
