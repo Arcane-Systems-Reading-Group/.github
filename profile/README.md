@@ -14,7 +14,7 @@ Join ASRG GC here: https://chat.whatsapp.com/CQmHWWzGzVeHLC6TcuGmmm
 ### ⌘ Past Sessions:
 ```Pre-Season 01: April 7th, 2024```
  - ~~Recreating Pong on Bare-Metal by [Aadithyaa](https://www.github.com/aadit-n3rdy)~~ 
- - ~~Implementing x86 BootLoader by [Praneeth](https://github.com/PraneethV-cmd)~~ \
+ - ~~Implementing x86 BootLoader by [Praneeth](https://github.com/PraneethV-cmd)~~ 
 
 ✦ content of future sessions will be stored here: [.chadrc](https://github.com/Arcane-Systems-Reading-Group/.chadrc) ✦
 
